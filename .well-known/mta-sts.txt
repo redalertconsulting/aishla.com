@@ -1,5 +1,5 @@
 version: STSv1
-mode: testing
+mode: enforce
 max_age: 604800
 mx: west.smtp.mx.exch023.serverdata.net
 mx: east.smtp.mx.exch023.serverdata.net
